@@ -4,11 +4,11 @@ Bài tập gồm:
 2. File Support: `env_variable_test.json`
 
 **Mục đích của bài Assignment**
-- Lấy thông tin các Users từ Slack của DataCracy (BTC, Mentors và Learners)
-- `**[Optional 1]**` Đưa danh sách Users lên Google Spreadsheet, để theo dõi 
-- `**[Optional 2]**` Lấy thông tin Assignment Submission và số Reviews trên `#atom-assignmentnt2` và cập nhật lên Spreadsheet, để theo dõi các học viên đã nộp bài và được review
+- Làm quen với việc sử dụng API
+- Dùng Python (Concept List, Function, Loops) để gửi Mail tự động
+- HTML và Web Scrapping
 
 **Các kiến thức sẽ áp dụng**
-- Ôn lại và luyện tập thêm về concept API (cụ thể sử dụng API Slack)
+- Ôn lại và luyện tập thêm về list, dictionary, function, loops
 - Trích xuất thông tin từ JSON
-- Dùng module gspread để đưa thông tin lên Google Spreadsheet
+- Gọi API
