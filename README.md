@@ -1,5 +1,5 @@
-# atom-data-workshops
-Data skills &amp; Quantitative methods - DATAcracy ATOM workshop
+# atom-data-assignments
+Data & Automation skills &amp; Quantitative methods - DATAcracy ATOM assignments
 
 ## Fork & Update Forked Repo
 * Fork repo này về Github space của bạn
