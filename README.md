@@ -1,5 +1,5 @@
-# atom-data-workshops
-Data skills &amp; Quantitative methods - DATAcracy ATOM workshop
+# atom-data-assignments
+Data skills &amp; Quantitative methods - DATAcracy ATOM assignments
 
 ## Fork & Update Forked Repo
 * Fork repo này về Github space của bạn
@@ -12,3 +12,16 @@ Data skills &amp; Quantitative methods - DATAcracy ATOM workshop
 5. Bên dưới panel *"This will merge x commits from `upstream/master` to `master`"* => Upstream là repo gốc của DataCracy, khi bạn nhấn **Merge into master** bạn sẽ merge những thay đổi mới của DataCracy vào repo trên space của bạn
 
 ![fork-upstream](./img/fork-upstream.png)
+
+
+## DataCracy Docs
+* Tổng hợp tài liệu của DataCracy: [HERE](https://anhdang.gitbook.io/datacracy/)
+* Nội dụng ATOM Class:
+    * [Assgignment 2](./assignment_2): Automate Email, API, Web Scraping
+    * [Assgignment 3](./assignment_3): Slack API. JSON to DataFrame. To Google SpreadSheet
+    * [Assgignment 4](./assignment_4): Database Design (QuickDBD) & SQL (`duckdb`)
+
+## Acknowledge
+The contents are developed & curated by: 
+* [@anhdanggit](https://github.com/anhdanggit): Co-founder & Chief Technical Contents
+* [@tranctan](https://github.com/tranctan): Mentor
