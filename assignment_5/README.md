@@ -1,7 +1,7 @@
 # README
 
 **Mục đích của bài Assignment**
-> *  Upload Data từ Google Spreadsheet lên BigQuery và thao tác data với SQL
+*  Upload Data từ Google Spreadsheet lên BigQuery và thao tác data với SQL
 *  Thao tác với data bằng Pandas
 *   `[Optional]` Data Visualization on Python
 
