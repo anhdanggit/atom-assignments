@@ -25,3 +25,4 @@ Data skills &amp; Quantitative methods - DATAcracy ATOM assignments
 The contents are developed & curated by: 
 * [@anhdanggit](https://github.com/anhdanggit): Co-founder & Chief Technical Contents
 * [@tranctan](https://github.com/tranctan): Mentor
+* [@thienphu71](https://github.com/thienphu71): Mentor
