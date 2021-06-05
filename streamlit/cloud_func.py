@@ -30,7 +30,4 @@ if st.sidebar.button('Call API'):
         st.markdown('**Status**: {}'.format('ERROR'))
     #st.write(response_json)
     
-    
-
-
 ## Run: streamlit run streamlit/datacracy_slack.py
