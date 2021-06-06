@@ -1,7 +1,7 @@
 # HOME ASSIGNMENT #6: CLOUD FUNCTION & STREAMLIT
 
 **Mục đích của bài Assignment**
-> *  Data Deploy Cloud Function 
+> *  [Optional] Data Deploy Cloud Function 
 > *  Tạo Data Apps với Streamlit
 > *  Thao tác với data bằng Pandas
 > *  Data Visualization
