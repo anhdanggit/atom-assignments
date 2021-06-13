@@ -1,6 +1,16 @@
 # atom-data-assignments
 Data skills &amp; Quantitative methods - DATAcracy ATOM assignments
 
+## DataCracy Docs
+* Tổng hợp tài liệu của DataCracy: [HERE](https://anhdang.gitbook.io/datacracy/)
+* Nội dụng ATOM Class:
+    * [Assgignment 2](./assignment_2): Automate Email, API, Web Scraping
+    * [Assgignment 3](./assignment_3): Slack API. JSON to DataFrame. To Google SpreadSheet
+    * [Assgignment 4](./assignment_4): Database Design (QuickDBD) & SQL (`duckdb`)
+    * [Assgignment 5](./assignment_5): BigQuery & Python Pandas
+    * [Assgignment 6](./assignment_6): Cloud Function & Streamlit
+    * [Assgignment 7](./assignment_7): EDA, Linear Regression, Clustering & Decision Tree
+
 ## Fork & Update Forked Repo
 * Fork repo này về Github space của bạn
 * Dùng [Github Desktop](https://desktop.github.com/) để update repo đã forked của bạn, với các thay đổi trên repo gốc của DataCracy:
@@ -12,14 +22,6 @@ Data skills &amp; Quantitative methods - DATAcracy ATOM assignments
 5. Bên dưới panel *"This will merge x commits from `upstream/master` to `master`"* => Upstream là repo gốc của DataCracy, khi bạn nhấn **Merge into master** bạn sẽ merge những thay đổi mới của DataCracy vào repo trên space của bạn
 
 ![fork-upstream](./img/fork-upstream.png)
-
-
-## DataCracy Docs
-* Tổng hợp tài liệu của DataCracy: [HERE](https://anhdang.gitbook.io/datacracy/)
-* Nội dụng ATOM Class:
-    * [Assgignment 2](./assignment_2): Automate Email, API, Web Scraping
-    * [Assgignment 3](./assignment_3): Slack API. JSON to DataFrame. To Google SpreadSheet
-    * [Assgignment 4](./assignment_4): Database Design (QuickDBD) & SQL (`duckdb`)
 
 ## Acknowledge
 The contents are developed & curated by: 
