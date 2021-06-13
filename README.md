@@ -1,4 +1,5 @@
 # atom-data-assignments
+Lớp học mở về Data vào thứ 7 trong 8 tuần.
 
 ## DATAcracy ATOM 
 > Tên dự án DATACracy được lấy cảm hứng từ: Data và Democracy.
