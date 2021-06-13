@@ -1,5 +1,12 @@
 # atom-data-assignments
-Data skills &amp; Quantitative methods - DATAcracy ATOM assignments
+
+## DATAcracy ATOM 
+> Tên dự án DATACracy được lấy cảm hứng từ: Data và Democracy.
+> * Data - dữ liệu, là một khái niệm không còn xa lạ với tất cả chúng ta. Chúng ta sống và cải thiện chất lượng cuộc sống mỗi ngày dựa vào dữ liệu, đồng thời không ngừng tạo ra dữ liệu. Còn Democracy, từ gốc trong tiếng Hy Lạp, là kết hợp giữa Demo (Con người) và Cracy (Quyền làm chủ) .
+> * Democratization (Phổ cập), theo từ điển Oxford, mang nghĩa để chỉ những nỗ lực và phát kiến để biến một thứ gì đó phổ biến rộng rãi và dễ tiếp cận: Hàng không giá rẻ, là điện thoại thông minh, là Internet, là Coursera, là Youtube, là Airbnb, Uber - đều mang những giá trị từng xa lạ đến nằm ngay đầu ngón tay của bao người. 
+
+Democratize (phổ cập) thường thức về Data cho mọi đối tượng: Đem những hiểu biết và kỹ năng về Data đến cho bất kỳ ai muốn ứng dụng. Tiếp thu theo trình độ và nhu cầu của mỗi cá nhân.
+
 
 ## DataCracy Docs
 * Tổng hợp tài liệu của DataCracy: [HERE](https://anhdang.gitbook.io/datacracy/)
