@@ -1,5 +1,6 @@
 # atom-data-assignments
-Lớp học mở về Data vào thứ 7 trong 8 tuần.
+Lớp học mở về Data vào thứ 7 trong 8 tuần, tháng 6-7 2021.
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/launch?url=https://github.com/anhdanggit/atom-assignments)
 
 ## DATAcracy ATOM 
 > Tên dự án DATACracy được lấy cảm hứng từ: Data và Democracy.
